@@ -279,8 +279,8 @@ img {
 }
 /* img hover zoom out img*/
 img:hover {
-  transform: scale(1.04);
-  transition: transform 0.25s ease-in-out 0s;
+  /*transform: scale(1.04);*/
+  /*transition: transform 0.25s ease-in-out 0s;*/
 }
 
 .community-theme img:hover{
